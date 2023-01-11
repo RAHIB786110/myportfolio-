@@ -4,6 +4,11 @@ body{
      grid-template-columns:3fr 9fr;
    
 }
+.map{
+    margin-left: -320px;
+    margin-top: 60px;
+    border: 2px solid black;
+}
 
 .container1 {
     background-color:#00004f ;
