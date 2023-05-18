@@ -10,6 +10,15 @@
 
 }
 
+#downloadresume{
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    padding: 7px;
+    
+}
 .myworks-all img{
     padding: 10px;
     
